@@ -1,0 +1,40 @@
+/******************* Form Styles **********************/
+.form-styles {
+  background-color: #ECECEC;
+  padding: 40px 50px;
+
+    input[type="text"],
+    input[type="email"] {
+      width: 100%;
+      display: block;
+      box-sizing: border-box;
+      padding: 0 10px;
+      height: 40px;
+      font-family: Roboto,sans-serif;
+      font-size: 100%;
+      border: 1px solid #CDCDCD;
+      margin-bottom: 10px;
+    }
+
+
+    input[type="textarea"] {
+      font-family: Roboto,sans-serif;
+      font-size: 100%;
+      border: 1px solid #CDCDCD;
+    }
+
+    .submit {
+      display: inline-block;
+      padding: .60rem 1.2rem;
+      background-color: $mainBlue;
+      vertical-align: top;
+    }
+
+    .hidden-label {
+      position: absolute;
+      height: 0;
+      width: 0;
+      overflow: hidden;
+      visibility: hidden;
+    }
+}
