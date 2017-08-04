@@ -2,23 +2,17 @@
 instead edit gulp/templates/sprite. */
 
     .icon {
-      background-image: url('../../assets/images/sprites/sprite-38b526dd.svg');
+      background-image: url('../../assets/images/sprites/sprite-d2dfff1c.svg');
     }
 
     .no-svg .icon {
-      background-image: url('../../assets/images/sprites/sprite-38b526dd.png');
+      background-image: url('../../assets/images/sprites/sprite-d2dfff1c.png');
     }
 
   .icon--comment {
     width: 66px;
     height: 66px;
-    background-position: 36.440677966101696% 56.89655172413793%;
-  }
-
-  .icon--facebook {
-    width: 23.23px;
-    height: 44.01px;
-    background-position: 23.675431359184994% 95.65910573229944%;
+    background-position: 99.77542372881356% 0;
   }
 
   .icon--fire {
@@ -36,7 +30,13 @@ instead edit gulp/templates/sprite. */
   .icon--instagram {
     width: 44.01px;
     height: 44.01px;
-    background-position: 34.58661188418156% 95.65910573229944%;
+    background-position: 45.7847203379976% 95.65910573229944%;
+  }
+
+  .icon--linkedin {
+    width: 52.12px;
+    height: 49.89px;
+    background-position: 26.41267808548103% 99.91673605328891%;
   }
 
   .icon--mail {
@@ -60,7 +60,7 @@ instead edit gulp/templates/sprite. */
   .icon--star {
     width: 66px;
     height: 66px;
-    background-position: 99.77542372881356% 0;
+    background-position: 36.440677966101696% 56.89655172413793%;
   }
 
   .icon--twitter {
@@ -78,5 +78,5 @@ instead edit gulp/templates/sprite. */
   .icon--youtube {
     width: 36.75px;
     height: 44px;
-    background-position: 50.23185673892554% 95.65217391304348%;
+    background-position: 61.1234684260132% 95.65217391304348%;
   }
