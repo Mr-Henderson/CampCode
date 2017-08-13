@@ -940,7 +940,7 @@ a {
 }
 
 .testimonial {
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 255, 255, .8);
   padding: 0 18px 1px 18px;
   margin-bottom: 98px;
 }
@@ -965,7 +965,7 @@ a {
   margin: 0 auto -80px auto;
   position: relative;
   top: -80px;
-  border: 6px solid rgba(255, 255, 255, 0.7);
+  border: 6px solid rgba(255, 255, 255, .8);
 }
 
 .testimonial__title {
@@ -981,7 +981,7 @@ a {
   text-align: center;
   font-weight: 400;
   font-size: 0.9375rem;
-  margin: .25 0 1rem 0;
+  margin: .25rem 0 1rem 0;
 }
 
 /* Do not edit modules/_sprite directly as it is generated automatically..
